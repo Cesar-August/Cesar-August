@@ -1,4 +1,4 @@
-<h2 align="left">Oii, meu nome é César, sou estudante de TADS na Uninove (universidade IX de julho).</h2>
+<h2 align="left">Olá, meu nome é César, sou estudante de TADS na Uninove (universidade IX de julho).</h2>
 
 ###
 
